@@ -2,7 +2,7 @@ build:
   version: "4.0"
 
 cashoperations:
-  message: "Welcome to Cashoperations related PROD (Production) Profile APIs "
+  message: "Welcome to Cashoperations related PROD (Production) Profile docker APIs "
   contactDetails:
     name: "Alex Smith - Product Owner"
     email: "{cipher}537d8ffc1582bc16d19676965184c5fa5782c13e8adba95cbd0ae8cd13d9d7463ad0367288cb5445d8cfe0f4b0ff0726"
