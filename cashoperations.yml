@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cashoperations:
-  message: "Welcome to Cashoperations related local docker APIs "
+  message: "Welcome to Cashoperations related local APIs "
   contactDetails:
     name: "Metodi Velev - Developer"
     email: "mvelev@example.com"
